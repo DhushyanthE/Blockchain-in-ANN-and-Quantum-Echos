@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**:https://lovable.dev/projects/f66516b9-d14b-4200-8d8c-11c5f580ba9d
+**URL**:https://blockchain-in-quantum-echos.vercel.app/
 
 ## How can I edit this code?
 
